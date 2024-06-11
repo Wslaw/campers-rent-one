@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/campers-rent-one/static/css/main.bc435f6b.css",
-    "main.js": "/campers-rent-one/static/js/main.39897927.js",
+    "main.css": "/campers-rent-one/static/css/main.5354c532.css",
+    "main.js": "/campers-rent-one/static/js/main.719fe6d5.js",
     "static/media/pngwing9.png": "/campers-rent-one/static/media/pngwing9.e97a5f598f5290198b84.png",
     "static/media/pngwing.com (10).png": "/campers-rent-one/static/media/pngwing.com (10).eccf28c17da54e2e224f.png",
     "static/media/Inter-Medium.ttf": "/campers-rent-one/static/media/Inter-Medium.7682fdab91479338a4d5.ttf",
@@ -16,11 +16,11 @@
     "static/media/camp9.jpg": "/campers-rent-one/static/media/camp9.494d6c43930b3a6f7920.jpg",
     "static/media/sprite.svg": "/campers-rent-one/static/media/sprite.96aa4ef51223edfef0ee0f4b8e13e0a5.svg",
     "index.html": "/campers-rent-one/index.html",
-    "main.bc435f6b.css.map": "/campers-rent-one/static/css/main.bc435f6b.css.map",
-    "main.39897927.js.map": "/campers-rent-one/static/js/main.39897927.js.map"
+    "main.5354c532.css.map": "/campers-rent-one/static/css/main.5354c532.css.map",
+    "main.719fe6d5.js.map": "/campers-rent-one/static/js/main.719fe6d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc435f6b.css",
-    "static/js/main.39897927.js"
+    "static/css/main.5354c532.css",
+    "static/js/main.719fe6d5.js"
   ]
 }

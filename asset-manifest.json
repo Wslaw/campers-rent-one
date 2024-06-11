@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/campers-rent-one/static/css/main.15e17ae9.css",
+    "main.css": "/campers-rent-one/static/css/main.a6bb697a.css",
     "main.js": "/campers-rent-one/static/js/main.39897927.js",
     "static/media/pngwing.com (9).png": "/campers-rent-one/static/media/pngwing.com (9).e97a5f598f5290198b84.png",
     "static/media/pngwing.com (10).png": "/campers-rent-one/static/media/pngwing.com (10).eccf28c17da54e2e224f.png",
@@ -16,11 +16,11 @@
     "static/media/camp9.jpg": "/campers-rent-one/static/media/camp9.494d6c43930b3a6f7920.jpg",
     "static/media/sprite.svg": "/campers-rent-one/static/media/sprite.96aa4ef51223edfef0ee0f4b8e13e0a5.svg",
     "index.html": "/campers-rent-one/index.html",
-    "main.15e17ae9.css.map": "/campers-rent-one/static/css/main.15e17ae9.css.map",
+    "main.a6bb697a.css.map": "/campers-rent-one/static/css/main.a6bb697a.css.map",
     "main.39897927.js.map": "/campers-rent-one/static/js/main.39897927.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e17ae9.css",
+    "static/css/main.a6bb697a.css",
     "static/js/main.39897927.js"
   ]
 }
